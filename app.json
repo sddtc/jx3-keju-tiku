@@ -1,0 +1,16 @@
+{
+  "name": "jx3-keju-tiku",
+  "description": "jx3科举题库",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
